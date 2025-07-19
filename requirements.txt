@@ -41,7 +41,7 @@ networkx==3.4.2
 numpy==2.1.1
 oauthlib==3.3.1
 openai==1.54.3
-opencv-python==4.11.0.86
+opencv-python==4.5.5.64
 openpyxl==3.1.5
 packaging==24.2
 pandas==2.2.3
@@ -51,7 +51,6 @@ psutil==7.0.0
 py-cpuinfo==9.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
-PyAudio==0.2.14
 PyAutoGUI==0.9.54
 pydantic==2.9.2
 pydantic_core==2.23.4
@@ -82,7 +81,7 @@ SpeechRecognition==3.11.0
 SQLAlchemy==2.0.38
 sympy==1.13.1
 threadpoolctl==3.5.0
-torch==2.6.0
+torch==2.2.0+cpu
 torchvision==0.21.0
 tqdm==4.67.0
 typing_extensions==4.12.2
